@@ -8,3 +8,14 @@ def to_uppercase(text):
     Строка с заглавными буквами.
   """
   return text.upper()
+
+def to_uppercase(text):
+  """Возвращает строку со всеми заглавными буквами.
+
+  Args:
+    text: Строка, которую нужно преобразовать.
+
+  Returns:
+    Строка с заглавными буквами.
+  """
+  return text.upper()
